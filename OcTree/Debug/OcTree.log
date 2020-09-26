@@ -1,0 +1,4 @@
+﻿  OcTree.cpp
+C:\Users\Joaquin Maurtua\Desktop\CS\2020-2\EDA\Codigos\ARBOLES\OcTree\OcTree\Octree.h(34,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joaquin Maurtua\Desktop\CS\2020-2\EDA\Codigos\ARBOLES\OcTree\OcTree\Octree.h(102,23): warning C4018: '<': signed/unsigned mismatch
+  OcTree.vcxproj -> C:\Users\Joaquin Maurtua\Desktop\CS\2020-2\EDA\Codigos\ARBOLES\OcTree\Debug\OcTree.exe
